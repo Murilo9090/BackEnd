@@ -1,0 +1,14 @@
+C:\Users\47649489825\Desktop\BackEnd\RewiewArrays\bin\Debug\net9.0\RewiewArrays.exe
+C:\Users\47649489825\Desktop\BackEnd\RewiewArrays\bin\Debug\net9.0\RewiewArrays.deps.json
+C:\Users\47649489825\Desktop\BackEnd\RewiewArrays\bin\Debug\net9.0\RewiewArrays.runtimeconfig.json
+C:\Users\47649489825\Desktop\BackEnd\RewiewArrays\bin\Debug\net9.0\RewiewArrays.dll
+C:\Users\47649489825\Desktop\BackEnd\RewiewArrays\bin\Debug\net9.0\RewiewArrays.pdb
+C:\Users\47649489825\Desktop\BackEnd\RewiewArrays\obj\Debug\net9.0\RewiewArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47649489825\Desktop\BackEnd\RewiewArrays\obj\Debug\net9.0\RewiewArrays.AssemblyInfoInputs.cache
+C:\Users\47649489825\Desktop\BackEnd\RewiewArrays\obj\Debug\net9.0\RewiewArrays.AssemblyInfo.cs
+C:\Users\47649489825\Desktop\BackEnd\RewiewArrays\obj\Debug\net9.0\RewiewArrays.csproj.CoreCompileInputs.cache
+C:\Users\47649489825\Desktop\BackEnd\RewiewArrays\obj\Debug\net9.0\RewiewArrays.dll
+C:\Users\47649489825\Desktop\BackEnd\RewiewArrays\obj\Debug\net9.0\refint\RewiewArrays.dll
+C:\Users\47649489825\Desktop\BackEnd\RewiewArrays\obj\Debug\net9.0\RewiewArrays.pdb
+C:\Users\47649489825\Desktop\BackEnd\RewiewArrays\obj\Debug\net9.0\RewiewArrays.genruntimeconfig.cache
+C:\Users\47649489825\Desktop\BackEnd\RewiewArrays\obj\Debug\net9.0\ref\RewiewArrays.dll
