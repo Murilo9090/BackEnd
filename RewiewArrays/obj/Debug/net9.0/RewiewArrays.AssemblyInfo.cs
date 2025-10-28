@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RewiewArrays")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad9eaab29c2a398ffb4c861aaede9183bb336bbf")]
 [assembly: System.Reflection.AssemblyProductAttribute("RewiewArrays")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RewiewArrays")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
