@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\47649489825\\Desktop\\BackEnd\\POO\\Pilares\\Heranca\\Heranca.csproj",
-      "projectName": "Heranca",
-      "projectPath": "C:\\Users\\47649489825\\Desktop\\BackEnd\\POO\\Pilares\\Heranca\\Heranca.csproj",
+      "projectUniqueName": "C:\\Users\\47649489825\\Desktop\\BackEnd\\POO\\Pilares\\Heranca\\Exercicios3\\Exercicios3.csproj",
+      "projectName": "Exercicios3",
+      "projectPath": "C:\\Users\\47649489825\\Desktop\\BackEnd\\POO\\Pilares\\Heranca\\Exercicios3\\Exercicios3.csproj",
       "packagesPath": "C:\\Users\\47649489825\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\47649489825\\Desktop\\BackEnd\\POO\\Pilares\\Heranca\\obj\\",
+      "outputPath": "C:\\Users\\47649489825\\Desktop\\BackEnd\\POO\\Pilares\\Heranca\\Exercicios3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\47649489825\\AppData\\Roaming\\NuGet\\NuGet.Config",
